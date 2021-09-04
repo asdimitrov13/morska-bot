@@ -2,11 +2,17 @@
 
 # instal node 
 https://nodejs.org/en/download/
-# npm install
+
+Runvash tva v papkata:
+```
+npm install
+```
 
 kopvash .env.example file-a kato mahash .example
 populvash si infoto za chas, den, mesec i godina
+
 FACILITY_ID na futbola e 2, na tenisa 1
+
 COOKIE trqbva da vzemesh ot developer tools:
  - otvarqsh saita za zapazvane
  - puskash developer toolsa na chrome
@@ -17,4 +23,7 @@ COOKIE trqbva da vzemesh ot developer tools:
 
  ENABLED sum go slojil ako go runvash s neshto kato Heroku da mojesh da go puskash i spirash lesno inache ako si go runvash na tvoq komp go ostavqi na true 
 
- # npm start
+Za da go pusnesh runvash v papkata:
+```
+npm start
+```
